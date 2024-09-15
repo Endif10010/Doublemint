@@ -1,4 +1,4 @@
-unit Unit1;
+unit CqFirMediaPlayer;
 
 interface
 
@@ -22,4 +22,3 @@ implementation
 {$R *.dfm}
 
 end.
- 
